@@ -7,6 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiAghandeh&langs_count=8&theme=dark)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakapi?username=webmaster.hadi@gmail.com)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakapi?username=h11h)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Your Wakapi Stats](https://wakapi-readme-stats.vercel.app/api/wakatime?username=webmaster.hadi@gmail.com)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Your Wakapi Stats](https://wakapi-readme-stats.vercel.app/api/wakatime?username=h11h)](https://github.com/YOUR_GITHUB_USERNAME)
