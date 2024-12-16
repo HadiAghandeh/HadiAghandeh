@@ -10,3 +10,11 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=h11h&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=HadiAghandeh&theme=dark&border_radius=0&mode=weekly&background=45%2C080052%2C000000" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
