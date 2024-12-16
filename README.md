@@ -8,3 +8,5 @@
 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakapi?username=webmaster.hadi@gmail.com)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Your Wakapi Stats](https://wakapi-readme-stats.vercel.app/api/wakatime?username=webmaster.hadi@gmail.com)](https://github.com/YOUR_GITHUB_USERNAME)
